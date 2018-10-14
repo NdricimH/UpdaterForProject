@@ -1,5 +1,4 @@
 <Version: 1.02>
-/img/pictures/580b585b2edbce24c47b287c.png https://i.imgur.com/MlNFyQQ.png
 /data/Map001.json https://raw.githubusercontent.com/NdricimH/UpdaterForProject/master/Map001.json
 /data/Map002.json https://raw.githubusercontent.com/NdricimH/UpdaterForProject/master/Map002.json
 /data/Map003.json https://raw.githubusercontent.com/NdricimH/UpdaterForProject/master/Map003.json
